@@ -13,3 +13,5 @@ The project aims to develop an efficient routing algorithm for a real-world netw
 3. How does the layout of the network determine the success of routing?
 4. How does the length of the route influence the success of routing?
 5. Is there a difference in routing for different cities?
+
+![map](https://github.com/dbenc/twitter/blob/gh-pages/_images/map_without_edges.png)
